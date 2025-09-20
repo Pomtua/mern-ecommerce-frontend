@@ -22,3 +22,23 @@ This is the **frontend** of a MERN stack e-commerce application. It is built usi
 
 This project was built following the tutorial:  
 [React + Vite MERN Stack E-commerce Tutorial](https://www.youtube.com/watch?v=7E6um7NGmeE&t=19863s)
+
+
+## Installation
+
+1. Clone the repository  
+```bash
+git clone https://github.com/Pomtua/mern-ecommerce-frontend.git
+```
+
+2. Install dependencies
+```bash
+cd mern-ecommerce-frontend
+npm install
+```
+
+3. Run development server
+```bash
+npm run dev
+```
+
